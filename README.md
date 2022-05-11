@@ -9,7 +9,7 @@ By [aarikpokras](https://github.com/aarikpokras), the credit hog.
 
 # Plans
 - [x] Program tygen
-- [ ] Add export
+- [ ] Add export (In progress)
   - [ ] Email
   - [ ] .txt file
 - [ ] Make terminal-compatible
