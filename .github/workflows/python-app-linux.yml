@@ -36,9 +36,8 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Build with pyinstaller
       run: |
-        pyinstaller main.py
-        chmod a+x dist/main
-        tar -cvf tygen.tar dist/
+        pyinstaller --onefile main.py
+        tar -cvf tygen.tar dist/main/
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v3.0.0
       with:
