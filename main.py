@@ -1,3 +1,4 @@
+#!/usr/bin/python
 print("This is tygen. By GitHub/aarikpokras.")
 one = input("Who are you writing to? ")
 two = input("What gift did you get from " + one + "? e.g.: 'shirt' ")
