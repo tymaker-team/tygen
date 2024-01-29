@@ -6,11 +6,11 @@ By [aarikpokras](https://github.com/aarikpokras), the credit hog.
 ![maintenance](https://img.shields.io/badge/maintained-no!-red?style=flat-square)
 
 # Running
-1. Go into the venv folder
+
 
 # Plans
 - [x] Program tygen
+- [x] Shebang line
 - [ ] Add export (In progress)
   - [ ] Email
   - [ ] .txt file
-- [ ] Make terminal-compatible
